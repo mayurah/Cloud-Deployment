@@ -3,9 +3,8 @@
 
 **Note:** Application is tested and can be deployed on Amazon EC2 Cloud server or any other listed platforms.
 
-[![download repo](https://img.shields.io/badge/download-repo-green.svg?style=plastic)](https://github.com/mayurah/Cloud-Deployment/archive/master.zip)
+[![java build](https://img.shields.io/badge/build-Java-blue.svg?style=plastic)](#)  [![download repo](https://img.shields.io/badge/download-repo-green.svg?style=plastic)](https://github.com/mayurah/Cloud-Deployment/archive/master.zip)
 
-[![java build](https://img.shields.io/badge/build-Java-blue.svg?style=plastic)](#)
 
 ### Deliverables
 * Deployment Instructions (how you carried out deployment on cloud platform)
@@ -69,4 +68,4 @@ Keep shipping!
 
 — Team HackerEarth
 
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/mayurah/Cloud-Deployment/blob/master/LICENSE)]
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/mayurah/Cloud-Deployment/blob/master/LICENSE)
