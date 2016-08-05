@@ -3,7 +3,7 @@
 
 **Note:** Application is tested and can be deployed on Amazon EC2 Cloud server or any other listed platforms.
 
-[![java build](https://img.shields.io/badge/build-Java-blue.svg?style=plastic)](#)  [![download repo](https://img.shields.io/badge/download-repo-green.svg?style=plastic)](https://github.com/mayurah/Cloud-Deployment/archive/master.zip)
+[![java build](https://img.shields.io/badge/build-Java-blue.svg?style=plastic)](#)  [![download repo](https://img.shields.io/badge/download-repo-green.svg?style=plastic)](https://github.com/mayurah/Cloud-Deployment/archive/master.zip)     [![demo-url](https://img.shields.io/badge/Demo_URL-AWS-brightgreen.svg?style=plastic)](http://cloud-deploy.0x10.info/learnhub/)
 
 
 ### Deliverables
