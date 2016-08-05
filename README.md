@@ -5,6 +5,8 @@
 
 [![download repo](https://img.shields.io/badge/download-repo-green.svg?style=plastic)](https://github.com/mayurah/Cloud-Deployment/archive/master.zip)
 
+[![java build](https://img.shields.io/badge/build-Java-blue.svg?style=plastic)](#)
+
 ### Deliverables
 * Deployment Instructions (how you carried out deployment on cloud platform)
 * Live Demo URL
