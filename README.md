@@ -61,7 +61,7 @@ Note : all the parameter combination can be used such as (page, sort and by ) wi
 - [OpenShift](https://www.openshift.com/pricing/)
 - [Heroku](https://www.heroku.com/pricing)
 
-> To have a look ot sample deployment, here's the [demo](http://cloud-deploy.0x10.info/learnhub/) link; your task is to download this repository, understand the given java application and deploy it on your choice of cloud provider.
+> To have a look at sample deployment, here's the [demo](http://cloud-deploy.0x10.info/learnhub/) link; your task is to download this repository, understand the given java application and deploy it on your choice of cloud provider.
 
 
 Keep shipping!
