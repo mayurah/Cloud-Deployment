@@ -68,3 +68,5 @@ Note : all the parameter combination can be used such as (page, sort and by ) wi
 Keep shipping!
 
 — Team HackerEarth
+
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/mayurah/Cloud-Deployment/blob/master/LICENSE)]
